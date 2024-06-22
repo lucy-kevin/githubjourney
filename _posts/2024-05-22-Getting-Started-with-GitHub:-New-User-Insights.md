@@ -1,5 +1,6 @@
 Getting Started with GitHub: New User Insights
 ## New to GitHub? Explore and Learn Every Day
+
 ![rubaitul-azad-HLQDfaJUTVI-unsplash (1)](https://github.com/lucy-kevin/githubjourney/assets/109363782/997b794b-8e73-4a87-aeec-fd952b8df91e) 
 
 > With over 100 million repositories and vibrant community of developers, GitHub is more than just a platform - its a gateway to innovation and creativity. So buckle up as we dive into setting up your account, creating repositories, mastering basic commands. The GitHub adventure awaits - let's learn together...
