@@ -2,7 +2,6 @@
 title: My GitHub Journey
 ---
 
-# My GitHub Journey
 My journey with GitHub started as a casual exploration, but it quickly became an essential part of my development career. Initially, I used GitHub as a place to store my projects and occasionally contribute to open source. However, it wasn't until I joined the All in Africa Program that I truly began to understand the power and potential of this platform.
 
 The All in Africa Program provided me with a unique opportunity to connect with a vibrant community of developers across the continent. Through this program, I was exposed to a wealth of knowledge and resources that helped me improve my skills and deepen my understanding of collaborative development.
