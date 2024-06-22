@@ -1,4 +1,5 @@
-Getting Started with GitHub: New User Insights
+
+# Getting Started with GitHub: New User Insights
 ## New to GitHub? Explore and Learn Every Day
 
 ![rubaitul-azad-HLQDfaJUTVI-unsplash (1)](https://github.com/lucy-kevin/githubjourney/assets/109363782/997b794b-8e73-4a87-aeec-fd952b8df91e) 
